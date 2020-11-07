@@ -1,0 +1,9 @@
+Package: com.charliewhile.mandy
+Name: Mandy
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Version: 1.0
+Architecture: iphoneos-arm
+Description: I'm very sad but that isn't a problem
+Maintainer: Charlie While
+Author: Charlie While
+Section: Tweaks
