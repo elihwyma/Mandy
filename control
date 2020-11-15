@@ -1,9 +1,9 @@
 Package: com.charliewhile.mandy
 Name: Mandy
 Depends: mobilesubstrate, com.spark.libsparkapplist
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: Override dark/light mode on an app by app basis 
-Maintainer: Charlie While
-Author: Charlie While
+Maintainer: Amy While
+Author: Amy While
 Section: Tweaks
